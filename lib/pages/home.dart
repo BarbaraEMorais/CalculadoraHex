@@ -119,7 +119,6 @@ class _HomeState extends State<Home> {
     }
 
   }
-
   //limpa tela #finalizado
   void _clear(){
     expController.text =""; 
